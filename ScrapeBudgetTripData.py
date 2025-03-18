@@ -20,11 +20,21 @@ PROXIES = [
     "http://proxy3:port"
 ]
 
-# Get country codes from an alternative source (REST API)
+# Get country codes from Google public dataset
 def get_country_codes():
-    response = requests.get("https://restcountries.com/v3.1/all")
-    countries = response.json()
-    return {c["name"]["common"]: c["cca2"] for c in countries}
+    url = "https://developers.google.com/public-data/docs/canonical/countries_csv"
+    response = requests.get(url)
+    lines = response.text.split("\n")[1:]  # Skip header
+    country_codes = {}
+    
+    for line in lines:
+        parts = line.split(",")
+        if len(parts) >= 2:
+            country_name = parts[1].strip().replace(" ", "-")  # Replace spaces with dashes
+            country_code = parts[0].strip()
+            country_codes[country_name] = country_code
+    
+    return country_codes
 
 # Set up a requests session with retries
 def get_session():
