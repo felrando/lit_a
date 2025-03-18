@@ -20,12 +20,11 @@ PROXIES = [
     "http://proxy3:port"
 ]
 
-# Extract country codes from the dropdown menu
+# Get country codes from an alternative source (REST API)
 def get_country_codes():
-    response = requests.get(BASE_URL)
-    soup = BeautifulSoup(response.text, "html.parser")
-    country_options = soup.select("select[name='country_code'] option")
-    return {opt.text.strip(): opt["value"] for opt in country_options if opt["value"]}
+    response = requests.get("https://restcountries.com/v3.1/all")
+    countries = response.json()
+    return {c["name"]["common"]: c["cca2"] for c in countries}
 
 # Set up a requests session with retries
 def get_session():
