@@ -1,1 +1,526 @@
-
+Country Code,Country Name,Budget Type,Category,Cost,Date,Day
+AL,Albania,Budget,Average Daily Cost,38,2025-03-19,Wednesday
+AL,Albania,Mid-Range,Average Daily Cost,93,2025-03-19,Wednesday
+AL,Albania,Luxury,Average Daily Cost,223,2025-03-19,Wednesday
+DZ,Algeria,Budget,Average Daily Cost,621,2025-03-19,Wednesday
+DZ,Algeria,Mid-Range,Average Daily Cost,621,2025-03-19,Wednesday
+DZ,Algeria,Luxury,Average Daily Cost,621,2025-03-19,Wednesday
+AD,Andorra,Budget,Average Daily Cost,90,2025-03-19,Wednesday
+AD,Andorra,Mid-Range,Average Daily Cost,209,2025-03-19,Wednesday
+AD,Andorra,Luxury,Average Daily Cost,430,2025-03-19,Wednesday
+AI,Anguilla,Budget,Average Daily Cost,180,2025-03-19,Wednesday
+AI,Anguilla,Mid-Range,Average Daily Cost,422,2025-03-19,Wednesday
+AI,Anguilla,Luxury,Average Daily Cost,876,2025-03-19,Wednesday
+AG,Antigua and Barbuda,Budget,Average Daily Cost,167,2025-03-19,Wednesday
+AG,Antigua and Barbuda,Mid-Range,Average Daily Cost,406,2025-03-19,Wednesday
+AG,Antigua and Barbuda,Luxury,Average Daily Cost,931,2025-03-19,Wednesday
+AR,Argentina,Budget,Average Daily Cost,39,2025-03-19,Wednesday
+AR,Argentina,Mid-Range,Average Daily Cost,92,2025-03-19,Wednesday
+AR,Argentina,Luxury,Average Daily Cost,189,2025-03-19,Wednesday
+AM,Armenia,Budget,Average Daily Cost,16,2025-03-19,Wednesday
+AM,Armenia,Mid-Range,Average Daily Cost,37,2025-03-19,Wednesday
+AM,Armenia,Luxury,Average Daily Cost,78,2025-03-19,Wednesday
+AW,Aruba,Budget,Average Daily Cost,157,2025-03-19,Wednesday
+AW,Aruba,Mid-Range,Average Daily Cost,369,2025-03-19,Wednesday
+AW,Aruba,Luxury,Average Daily Cost,782,2025-03-19,Wednesday
+AU,Australia,Budget,Average Daily Cost,63,2025-03-19,Wednesday
+AU,Australia,Mid-Range,Average Daily Cost,163,2025-03-19,Wednesday
+AU,Australia,Luxury,Average Daily Cost,432,2025-03-19,Wednesday
+AT,Austria,Budget,Average Daily Cost,75,2025-03-19,Wednesday
+AT,Austria,Mid-Range,Average Daily Cost,190,2025-03-19,Wednesday
+AT,Austria,Luxury,Average Daily Cost,479,2025-03-19,Wednesday
+AZ,Azerbaijan,Budget,Average Daily Cost,0.00,2025-03-19,Wednesday
+AZ,Azerbaijan,Mid-Range,Average Daily Cost,0.00,2025-03-19,Wednesday
+AZ,Azerbaijan,Luxury,Average Daily Cost,0.00,2025-03-19,Wednesday
+BS,Bahamas,Budget,Average Daily Cost,123,2025-03-19,Wednesday
+BS,Bahamas,Mid-Range,Average Daily Cost,287,2025-03-19,Wednesday
+BS,Bahamas,Luxury,Average Daily Cost,594,2025-03-19,Wednesday
+BH,Bahrain,Budget,Average Daily Cost,88,2025-03-19,Wednesday
+BH,Bahrain,Mid-Range,Average Daily Cost,196,2025-03-19,Wednesday
+BH,Bahrain,Luxury,Average Daily Cost,366,2025-03-19,Wednesday
+BD,Bangladesh,Budget,Average Daily Cost,24,2025-03-19,Wednesday
+BD,Bangladesh,Mid-Range,Average Daily Cost,54,2025-03-19,Wednesday
+BD,Bangladesh,Luxury,Average Daily Cost,104,2025-03-19,Wednesday
+BB,Barbados,Budget,Average Daily Cost,176,2025-03-19,Wednesday
+BB,Barbados,Mid-Range,Average Daily Cost,438,2025-03-19,Wednesday
+BB,Barbados,Luxury,Average Daily Cost,"1,071",2025-03-19,Wednesday
+BY,Belarus,Budget,Average Daily Cost,32,2025-03-19,Wednesday
+BY,Belarus,Mid-Range,Average Daily Cost,78,2025-03-19,Wednesday
+BY,Belarus,Luxury,Average Daily Cost,184,2025-03-19,Wednesday
+BE,Belgium,Budget,Average Daily Cost,75,2025-03-19,Wednesday
+BE,Belgium,Mid-Range,Average Daily Cost,184,2025-03-19,Wednesday
+BE,Belgium,Luxury,Average Daily Cost,436,2025-03-19,Wednesday
+BZ,Belize,Budget,Average Daily Cost,48,2025-03-19,Wednesday
+BZ,Belize,Mid-Range,Average Daily Cost,124,2025-03-19,Wednesday
+BZ,Belize,Luxury,Average Daily Cost,334,2025-03-19,Wednesday
+BM,Bermuda,Budget,Average Daily Cost,152,2025-03-19,Wednesday
+BM,Bermuda,Mid-Range,Average Daily Cost,350,2025-03-19,Wednesday
+BM,Bermuda,Luxury,Average Daily Cost,689,2025-03-19,Wednesday
+BT,Bhutan,Budget,Average Daily Cost,47,2025-03-19,Wednesday
+BT,Bhutan,Mid-Range,Average Daily Cost,106,2025-03-19,Wednesday
+BT,Bhutan,Luxury,Average Daily Cost,203,2025-03-19,Wednesday
+BO,"Bolivia, Plurinational State of",Budget,Average Daily Cost,25,2025-03-19,Wednesday
+BO,"Bolivia, Plurinational State of",Mid-Range,Average Daily Cost,63,2025-03-19,Wednesday
+BO,"Bolivia, Plurinational State of",Luxury,Average Daily Cost,157,2025-03-19,Wednesday
+BQ,"Bonaire, Sint Eustatius and Saba",Budget,Average Daily Cost,129,2025-03-19,Wednesday
+BQ,"Bonaire, Sint Eustatius and Saba",Mid-Range,Average Daily Cost,298,2025-03-19,Wednesday
+BQ,"Bonaire, Sint Eustatius and Saba",Luxury,Average Daily Cost,593,2025-03-19,Wednesday
+BA,Bosnia and Herzegovina,Budget,Average Daily Cost,37,2025-03-19,Wednesday
+BA,Bosnia and Herzegovina,Mid-Range,Average Daily Cost,93,2025-03-19,Wednesday
+BA,Bosnia and Herzegovina,Luxury,Average Daily Cost,230,2025-03-19,Wednesday
+BW,Botswana,Budget,Average Daily Cost,31,2025-03-19,Wednesday
+BW,Botswana,Mid-Range,Average Daily Cost,71,2025-03-19,Wednesday
+BW,Botswana,Luxury,Average Daily Cost,141,2025-03-19,Wednesday
+BR,Brazil,Budget,Average Daily Cost,33,2025-03-19,Wednesday
+BR,Brazil,Mid-Range,Average Daily Cost,87,2025-03-19,Wednesday
+BR,Brazil,Luxury,Average Daily Cost,243,2025-03-19,Wednesday
+BG,Bulgaria,Budget,Average Daily Cost,33,2025-03-19,Wednesday
+BG,Bulgaria,Mid-Range,Average Daily Cost,81,2025-03-19,Wednesday
+BG,Bulgaria,Luxury,Average Daily Cost,193,2025-03-19,Wednesday
+BF,Burkina Faso,Budget,Average Daily Cost,16,2025-03-19,Wednesday
+BF,Burkina Faso,Mid-Range,Average Daily Cost,35,2025-03-19,Wednesday
+BF,Burkina Faso,Luxury,Average Daily Cost,64,2025-03-19,Wednesday
+KH,Cambodia,Budget,Average Daily Cost,26,2025-03-19,Wednesday
+KH,Cambodia,Mid-Range,Average Daily Cost,74,2025-03-19,Wednesday
+KH,Cambodia,Luxury,Average Daily Cost,229,2025-03-19,Wednesday
+CM,Cameroon,Budget,Average Daily Cost,57,2025-03-19,Wednesday
+CM,Cameroon,Mid-Range,Average Daily Cost,84,2025-03-19,Wednesday
+CM,Cameroon,Luxury,Average Daily Cost,126,2025-03-19,Wednesday
+CA,Canada,Budget,Average Daily Cost,68,2025-03-19,Wednesday
+CA,Canada,Mid-Range,Average Daily Cost,188,2025-03-19,Wednesday
+CA,Canada,Luxury,Average Daily Cost,566,2025-03-19,Wednesday
+CV,Cape Verde,Budget,Average Daily Cost,67,2025-03-19,Wednesday
+CV,Cape Verde,Mid-Range,Average Daily Cost,153,2025-03-19,Wednesday
+CV,Cape Verde,Luxury,Average Daily Cost,297,2025-03-19,Wednesday
+KY,Cayman Islands,Budget,Average Daily Cost,152,2025-03-19,Wednesday
+KY,Cayman Islands,Mid-Range,Average Daily Cost,364,2025-03-19,Wednesday
+KY,Cayman Islands,Luxury,Average Daily Cost,820,2025-03-19,Wednesday
+CL,Chile,Budget,Average Daily Cost,46,2025-03-19,Wednesday
+CL,Chile,Mid-Range,Average Daily Cost,123,2025-03-19,Wednesday
+CL,Chile,Luxury,Average Daily Cost,348,2025-03-19,Wednesday
+CN,China,Budget,Average Daily Cost,37,2025-03-19,Wednesday
+CN,China,Mid-Range,Average Daily Cost,93,2025-03-19,Wednesday
+CN,China,Luxury,Average Daily Cost,232,2025-03-19,Wednesday
+CO,Colombia,Budget,Average Daily Cost,18,2025-03-19,Wednesday
+CO,Colombia,Mid-Range,Average Daily Cost,50,2025-03-19,Wednesday
+CO,Colombia,Luxury,Average Daily Cost,158,2025-03-19,Wednesday
+CR,Costa Rica,Budget,Average Daily Cost,54,2025-03-19,Wednesday
+CR,Costa Rica,Mid-Range,Average Daily Cost,135,2025-03-19,Wednesday
+CR,Costa Rica,Luxury,Average Daily Cost,337,2025-03-19,Wednesday
+HR,Croatia,Budget,Average Daily Cost,51,2025-03-19,Wednesday
+HR,Croatia,Mid-Range,Average Daily Cost,125,2025-03-19,Wednesday
+HR,Croatia,Luxury,Average Daily Cost,292,2025-03-19,Wednesday
+CU,Cuba,Budget,Average Daily Cost,17,2025-03-19,Wednesday
+CU,Cuba,Mid-Range,Average Daily Cost,48,2025-03-19,Wednesday
+CU,Cuba,Luxury,Average Daily Cost,154,2025-03-19,Wednesday
+CW,CuraÃ§ao,Budget,Average Daily Cost,161,2025-03-19,Wednesday
+CW,CuraÃ§ao,Mid-Range,Average Daily Cost,373,2025-03-19,Wednesday
+CW,CuraÃ§ao,Luxury,Average Daily Cost,749,2025-03-19,Wednesday
+CY,Cyprus,Budget,Average Daily Cost,61,2025-03-19,Wednesday
+CY,Cyprus,Mid-Range,Average Daily Cost,141,2025-03-19,Wednesday
+CY,Cyprus,Luxury,Average Daily Cost,294,2025-03-19,Wednesday
+CZ,Czech Republic,Budget,Average Daily Cost,54,2025-03-19,Wednesday
+CZ,Czech Republic,Mid-Range,Average Daily Cost,130,2025-03-19,Wednesday
+CZ,Czech Republic,Luxury,Average Daily Cost,316,2025-03-19,Wednesday
+DK,Denmark,Budget,Average Daily Cost,98,2025-03-19,Wednesday
+DK,Denmark,Mid-Range,Average Daily Cost,231,2025-03-19,Wednesday
+DK,Denmark,Luxury,Average Daily Cost,541,2025-03-19,Wednesday
+DM,Dominica,Budget,Average Daily Cost,102,2025-03-19,Wednesday
+DM,Dominica,Mid-Range,Average Daily Cost,235,2025-03-19,Wednesday
+DM,Dominica,Luxury,Average Daily Cost,452,2025-03-19,Wednesday
+DO,Dominican Republic,Budget,Average Daily Cost,64,2025-03-19,Wednesday
+DO,Dominican Republic,Mid-Range,Average Daily Cost,162,2025-03-19,Wednesday
+DO,Dominican Republic,Luxury,Average Daily Cost,414,2025-03-19,Wednesday
+EC,Ecuador,Budget,Average Daily Cost,29,2025-03-19,Wednesday
+EC,Ecuador,Mid-Range,Average Daily Cost,75,2025-03-19,Wednesday
+EC,Ecuador,Luxury,Average Daily Cost,199,2025-03-19,Wednesday
+EG,Egypt,Budget,Average Daily Cost,7.31,2025-03-19,Wednesday
+EG,Egypt,Mid-Range,Average Daily Cost,19,2025-03-19,Wednesday
+EG,Egypt,Luxury,Average Daily Cost,50,2025-03-19,Wednesday
+SV,El Salvador,Budget,Average Daily Cost,19,2025-03-19,Wednesday
+SV,El Salvador,Mid-Range,Average Daily Cost,48,2025-03-19,Wednesday
+SV,El Salvador,Luxury,Average Daily Cost,119,2025-03-19,Wednesday
+EE,Estonia,Budget,Average Daily Cost,53,2025-03-19,Wednesday
+EE,Estonia,Mid-Range,Average Daily Cost,133,2025-03-19,Wednesday
+EE,Estonia,Luxury,Average Daily Cost,330,2025-03-19,Wednesday
+ET,Ethiopia,Budget,Average Daily Cost,10,2025-03-19,Wednesday
+ET,Ethiopia,Mid-Range,Average Daily Cost,29,2025-03-19,Wednesday
+ET,Ethiopia,Luxury,Average Daily Cost,88,2025-03-19,Wednesday
+FJ,Fiji,Budget,Average Daily Cost,84,2025-03-19,Wednesday
+FJ,Fiji,Mid-Range,Average Daily Cost,198,2025-03-19,Wednesday
+FJ,Fiji,Luxury,Average Daily Cost,446,2025-03-19,Wednesday
+FI,Finland,Budget,Average Daily Cost,81,2025-03-19,Wednesday
+FI,Finland,Mid-Range,Average Daily Cost,196,2025-03-19,Wednesday
+FI,Finland,Luxury,Average Daily Cost,436,2025-03-19,Wednesday
+FR,France,Budget,Average Daily Cost,100,2025-03-19,Wednesday
+FR,France,Mid-Range,Average Daily Cost,284,2025-03-19,Wednesday
+FR,France,Luxury,Average Daily Cost,900,2025-03-19,Wednesday
+PF,French Polynesia,Budget,Average Daily Cost,87,2025-03-19,Wednesday
+PF,French Polynesia,Mid-Range,Average Daily Cost,198,2025-03-19,Wednesday
+PF,French Polynesia,Luxury,Average Daily Cost,379,2025-03-19,Wednesday
+GE,Georgia,Budget,Average Daily Cost,14,2025-03-19,Wednesday
+GE,Georgia,Mid-Range,Average Daily Cost,37,2025-03-19,Wednesday
+GE,Georgia,Luxury,Average Daily Cost,107,2025-03-19,Wednesday
+DE,Germany,Budget,Average Daily Cost,78,2025-03-19,Wednesday
+DE,Germany,Mid-Range,Average Daily Cost,192,2025-03-19,Wednesday
+DE,Germany,Luxury,Average Daily Cost,462,2025-03-19,Wednesday
+GH,Ghana,Budget,Average Daily Cost,9.91,2025-03-19,Wednesday
+GH,Ghana,Mid-Range,Average Daily Cost,27,2025-03-19,Wednesday
+GH,Ghana,Luxury,Average Daily Cost,79,2025-03-19,Wednesday
+GR,Greece,Budget,Average Daily Cost,93,2025-03-19,Wednesday
+GR,Greece,Mid-Range,Average Daily Cost,234,2025-03-19,Wednesday
+GR,Greece,Luxury,Average Daily Cost,579,2025-03-19,Wednesday
+GL,Greenland,Budget,Average Daily Cost,134,2025-03-19,Wednesday
+GL,Greenland,Mid-Range,Average Daily Cost,306,2025-03-19,Wednesday
+GL,Greenland,Luxury,Average Daily Cost,591,2025-03-19,Wednesday
+GD,Grenada,Budget,Average Daily Cost,141,2025-03-19,Wednesday
+GD,Grenada,Mid-Range,Average Daily Cost,336,2025-03-19,Wednesday
+GD,Grenada,Luxury,Average Daily Cost,734,2025-03-19,Wednesday
+GP,Guadeloupe,Budget,Average Daily Cost,125,2025-03-19,Wednesday
+GP,Guadeloupe,Mid-Range,Average Daily Cost,309,2025-03-19,Wednesday
+GP,Guadeloupe,Luxury,Average Daily Cost,746,2025-03-19,Wednesday
+GU,Guam,Budget,Average Daily Cost,47,2025-03-19,Wednesday
+GU,Guam,Mid-Range,Average Daily Cost,47,2025-03-19,Wednesday
+GU,Guam,Luxury,Average Daily Cost,47,2025-03-19,Wednesday
+GT,Guatemala,Budget,Average Daily Cost,23,2025-03-19,Wednesday
+GT,Guatemala,Mid-Range,Average Daily Cost,58,2025-03-19,Wednesday
+GT,Guatemala,Luxury,Average Daily Cost,148,2025-03-19,Wednesday
+HT,Haiti,Budget,Average Daily Cost,28,2025-03-19,Wednesday
+HT,Haiti,Mid-Range,Average Daily Cost,40,2025-03-19,Wednesday
+HT,Haiti,Luxury,Average Daily Cost,66,2025-03-19,Wednesday
+HN,Honduras,Budget,Average Daily Cost,25,2025-03-19,Wednesday
+HN,Honduras,Mid-Range,Average Daily Cost,63,2025-03-19,Wednesday
+HN,Honduras,Luxury,Average Daily Cost,162,2025-03-19,Wednesday
+HK,Hong Kong,Budget,Average Daily Cost,78,2025-03-19,Wednesday
+HK,Hong Kong,Mid-Range,Average Daily Cost,196,2025-03-19,Wednesday
+HK,Hong Kong,Luxury,Average Daily Cost,485,2025-03-19,Wednesday
+HU,Hungary,Budget,Average Daily Cost,39,2025-03-19,Wednesday
+HU,Hungary,Mid-Range,Average Daily Cost,98,2025-03-19,Wednesday
+HU,Hungary,Luxury,Average Daily Cost,250,2025-03-19,Wednesday
+IS,Iceland,Budget,Average Daily Cost,102,2025-03-19,Wednesday
+IS,Iceland,Mid-Range,Average Daily Cost,237,2025-03-19,Wednesday
+IS,Iceland,Luxury,Average Daily Cost,550,2025-03-19,Wednesday
+IN,India,Budget,Average Daily Cost,17,2025-03-19,Wednesday
+IN,India,Mid-Range,Average Daily Cost,44,2025-03-19,Wednesday
+IN,India,Luxury,Average Daily Cost,124,2025-03-19,Wednesday
+ID,Indonesia,Budget,Average Daily Cost,24,2025-03-19,Wednesday
+ID,Indonesia,Mid-Range,Average Daily Cost,67,2025-03-19,Wednesday
+ID,Indonesia,Luxury,Average Daily Cost,203,2025-03-19,Wednesday
+IR,"Iran, Islamic Republic of",Budget,Average Daily Cost,24,2025-03-19,Wednesday
+IR,"Iran, Islamic Republic of",Mid-Range,Average Daily Cost,63,2025-03-19,Wednesday
+IR,"Iran, Islamic Republic of",Luxury,Average Daily Cost,170,2025-03-19,Wednesday
+IQ,Iraq,Budget,Average Daily Cost,5.96,2025-03-19,Wednesday
+IQ,Iraq,Mid-Range,Average Daily Cost,5.96,2025-03-19,Wednesday
+IQ,Iraq,Luxury,Average Daily Cost,5.96,2025-03-19,Wednesday
+IE,Ireland,Budget,Average Daily Cost,74,2025-03-19,Wednesday
+IE,Ireland,Mid-Range,Average Daily Cost,183,2025-03-19,Wednesday
+IE,Ireland,Luxury,Average Daily Cost,452,2025-03-19,Wednesday
+IL,Israel,Budget,Average Daily Cost,60,2025-03-19,Wednesday
+IL,Israel,Mid-Range,Average Daily Cost,146,2025-03-19,Wednesday
+IL,Israel,Luxury,Average Daily Cost,340,2025-03-19,Wednesday
+IT,Italy,Budget,Average Daily Cost,86,2025-03-19,Wednesday
+IT,Italy,Mid-Range,Average Daily Cost,214,2025-03-19,Wednesday
+IT,Italy,Luxury,Average Daily Cost,539,2025-03-19,Wednesday
+JM,Jamaica,Budget,Average Daily Cost,57,2025-03-19,Wednesday
+JM,Jamaica,Mid-Range,Average Daily Cost,143,2025-03-19,Wednesday
+JM,Jamaica,Luxury,Average Daily Cost,358,2025-03-19,Wednesday
+JP,Japan,Budget,Average Daily Cost,57,2025-03-19,Wednesday
+JP,Japan,Mid-Range,Average Daily Cost,146,2025-03-19,Wednesday
+JP,Japan,Luxury,Average Daily Cost,371,2025-03-19,Wednesday
+JO,Jordan,Budget,Average Daily Cost,72,2025-03-19,Wednesday
+JO,Jordan,Mid-Range,Average Daily Cost,176,2025-03-19,Wednesday
+JO,Jordan,Luxury,Average Daily Cost,401,2025-03-19,Wednesday
+KZ,Kazakhstan,Budget,Average Daily Cost,9.91,2025-03-19,Wednesday
+KZ,Kazakhstan,Mid-Range,Average Daily Cost,24,2025-03-19,Wednesday
+KZ,Kazakhstan,Luxury,Average Daily Cost,55,2025-03-19,Wednesday
+KE,Kenya,Budget,Average Daily Cost,59,2025-03-19,Wednesday
+KE,Kenya,Mid-Range,Average Daily Cost,140,2025-03-19,Wednesday
+KE,Kenya,Luxury,Average Daily Cost,300,2025-03-19,Wednesday
+KR,"Korea, Republic of",Budget,Average Daily Cost,47,2025-03-19,Wednesday
+KR,"Korea, Republic of",Mid-Range,Average Daily Cost,119,2025-03-19,Wednesday
+KR,"Korea, Republic of",Luxury,Average Daily Cost,304,2025-03-19,Wednesday
+KG,Kyrgyzstan,Budget,Average Daily Cost,13,2025-03-19,Wednesday
+KG,Kyrgyzstan,Mid-Range,Average Daily Cost,21,2025-03-19,Wednesday
+KG,Kyrgyzstan,Luxury,Average Daily Cost,40,2025-03-19,Wednesday
+LA,Lao People's Democratic Republic,Budget,Average Daily Cost,9.21,2025-03-19,Wednesday
+LA,Lao People's Democratic Republic,Mid-Range,Average Daily Cost,23,2025-03-19,Wednesday
+LA,Lao People's Democratic Republic,Luxury,Average Daily Cost,54,2025-03-19,Wednesday
+LV,Latvia,Budget,Average Daily Cost,58,2025-03-19,Wednesday
+LV,Latvia,Mid-Range,Average Daily Cost,145,2025-03-19,Wednesday
+LV,Latvia,Luxury,Average Daily Cost,357,2025-03-19,Wednesday
+LB,Lebanon,Budget,Average Daily Cost,1.21,2025-03-19,Wednesday
+LB,Lebanon,Mid-Range,Average Daily Cost,2.77,2025-03-19,Wednesday
+LB,Lebanon,Luxury,Average Daily Cost,5.33,2025-03-19,Wednesday
+LS,Lesotho,Budget,Average Daily Cost,36,2025-03-19,Wednesday
+LS,Lesotho,Mid-Range,Average Daily Cost,82,2025-03-19,Wednesday
+LS,Lesotho,Luxury,Average Daily Cost,157,2025-03-19,Wednesday
+LY,Libya,Budget,Average Daily Cost,58,2025-03-19,Wednesday
+LY,Libya,Mid-Range,Average Daily Cost,62,2025-03-19,Wednesday
+LY,Libya,Luxury,Average Daily Cost,69,2025-03-19,Wednesday
+LI,Liechtenstein,Budget,Average Daily Cost,136,2025-03-19,Wednesday
+LI,Liechtenstein,Mid-Range,Average Daily Cost,305,2025-03-19,Wednesday
+LI,Liechtenstein,Luxury,Average Daily Cost,579,2025-03-19,Wednesday
+LT,Lithuania,Budget,Average Daily Cost,51,2025-03-19,Wednesday
+LT,Lithuania,Mid-Range,Average Daily Cost,126,2025-03-19,Wednesday
+LT,Lithuania,Luxury,Average Daily Cost,291,2025-03-19,Wednesday
+LU,Luxembourg,Budget,Average Daily Cost,110,2025-03-19,Wednesday
+LU,Luxembourg,Mid-Range,Average Daily Cost,256,2025-03-19,Wednesday
+LU,Luxembourg,Luxury,Average Daily Cost,509,2025-03-19,Wednesday
+MK,"Macedonia, the Former Yugoslav Republic of",Budget,Average Daily Cost,52,2025-03-19,Wednesday
+MK,"Macedonia, the Former Yugoslav Republic of",Mid-Range,Average Daily Cost,117,2025-03-19,Wednesday
+MK,"Macedonia, the Former Yugoslav Republic of",Luxury,Average Daily Cost,218,2025-03-19,Wednesday
+MG,Madagascar,Budget,Average Daily Cost,42,2025-03-19,Wednesday
+MG,Madagascar,Mid-Range,Average Daily Cost,99,2025-03-19,Wednesday
+MG,Madagascar,Luxury,Average Daily Cost,210,2025-03-19,Wednesday
+MW,Malawi,Budget,Average Daily Cost,19,2025-03-19,Wednesday
+MW,Malawi,Mid-Range,Average Daily Cost,43,2025-03-19,Wednesday
+MW,Malawi,Luxury,Average Daily Cost,83,2025-03-19,Wednesday
+MY,Malaysia,Budget,Average Daily Cost,36,2025-03-19,Wednesday
+MY,Malaysia,Mid-Range,Average Daily Cost,101,2025-03-19,Wednesday
+MY,Malaysia,Luxury,Average Daily Cost,315,2025-03-19,Wednesday
+MV,Maldives,Budget,Average Daily Cost,141,2025-03-19,Wednesday
+MV,Maldives,Mid-Range,Average Daily Cost,350,2025-03-19,Wednesday
+MV,Maldives,Luxury,Average Daily Cost,847,2025-03-19,Wednesday
+ML,Mali,Budget,Average Daily Cost,23,2025-03-19,Wednesday
+ML,Mali,Mid-Range,Average Daily Cost,39,2025-03-19,Wednesday
+ML,Mali,Luxury,Average Daily Cost,72,2025-03-19,Wednesday
+MT,Malta,Budget,Average Daily Cost,65,2025-03-19,Wednesday
+MT,Malta,Mid-Range,Average Daily Cost,149,2025-03-19,Wednesday
+MT,Malta,Luxury,Average Daily Cost,296,2025-03-19,Wednesday
+MQ,Martinique,Budget,Average Daily Cost,96,2025-03-19,Wednesday
+MQ,Martinique,Mid-Range,Average Daily Cost,221,2025-03-19,Wednesday
+MQ,Martinique,Luxury,Average Daily Cost,432,2025-03-19,Wednesday
+MR,Mauritania,Budget,Average Daily Cost,0.00,2025-03-19,Wednesday
+MR,Mauritania,Mid-Range,Average Daily Cost,0.00,2025-03-19,Wednesday
+MR,Mauritania,Luxury,Average Daily Cost,0.00,2025-03-19,Wednesday
+MU,Mauritius,Budget,Average Daily Cost,16,2025-03-19,Wednesday
+MU,Mauritius,Mid-Range,Average Daily Cost,16,2025-03-19,Wednesday
+MU,Mauritius,Luxury,Average Daily Cost,16,2025-03-19,Wednesday
+MX,Mexico,Budget,Average Daily Cost,45,2025-03-19,Wednesday
+MX,Mexico,Mid-Range,Average Daily Cost,126,2025-03-19,Wednesday
+MX,Mexico,Luxury,Average Daily Cost,387,2025-03-19,Wednesday
+FM,"Micronesia, Federated States of",Budget,Average Daily Cost,136,2025-03-19,Wednesday
+FM,"Micronesia, Federated States of",Mid-Range,Average Daily Cost,311,2025-03-19,Wednesday
+FM,"Micronesia, Federated States of",Luxury,Average Daily Cost,594,2025-03-19,Wednesday
+MN,Mongolia,Budget,Average Daily Cost,12,2025-03-19,Wednesday
+MN,Mongolia,Mid-Range,Average Daily Cost,31,2025-03-19,Wednesday
+MN,Mongolia,Luxury,Average Daily Cost,80,2025-03-19,Wednesday
+ME,Montenegro,Budget,Average Daily Cost,56,2025-03-19,Wednesday
+ME,Montenegro,Mid-Range,Average Daily Cost,139,2025-03-19,Wednesday
+ME,Montenegro,Luxury,Average Daily Cost,322,2025-03-19,Wednesday
+MA,Morocco,Budget,Average Daily Cost,33,2025-03-19,Wednesday
+MA,Morocco,Mid-Range,Average Daily Cost,85,2025-03-19,Wednesday
+MA,Morocco,Luxury,Average Daily Cost,226,2025-03-19,Wednesday
+MZ,Mozambique,Budget,Average Daily Cost,0.00,2025-03-19,Wednesday
+MZ,Mozambique,Mid-Range,Average Daily Cost,0.00,2025-03-19,Wednesday
+MZ,Mozambique,Luxury,Average Daily Cost,0.00,2025-03-19,Wednesday
+MM,Myanmar,Budget,Average Daily Cost,44,2025-03-19,Wednesday
+MM,Myanmar,Mid-Range,Average Daily Cost,61,2025-03-19,Wednesday
+MM,Myanmar,Luxury,Average Daily Cost,90,2025-03-19,Wednesday
+NA,Namibia,Budget,Average Daily Cost,39,2025-03-19,Wednesday
+NA,Namibia,Mid-Range,Average Daily Cost,81,2025-03-19,Wednesday
+NA,Namibia,Luxury,Average Daily Cost,185,2025-03-19,Wednesday
+NP,Nepal,Budget,Average Daily Cost,16,2025-03-19,Wednesday
+NP,Nepal,Mid-Range,Average Daily Cost,43,2025-03-19,Wednesday
+NP,Nepal,Luxury,Average Daily Cost,133,2025-03-19,Wednesday
+NL,Netherlands,Budget,Average Daily Cost,90,2025-03-19,Wednesday
+NL,Netherlands,Mid-Range,Average Daily Cost,222,2025-03-19,Wednesday
+NL,Netherlands,Luxury,Average Daily Cost,533,2025-03-19,Wednesday
+NZ,New Zealand,Budget,Average Daily Cost,57,2025-03-19,Wednesday
+NZ,New Zealand,Mid-Range,Average Daily Cost,151,2025-03-19,Wednesday
+NZ,New Zealand,Luxury,Average Daily Cost,429,2025-03-19,Wednesday
+NI,Nicaragua,Budget,Average Daily Cost,24,2025-03-19,Wednesday
+NI,Nicaragua,Mid-Range,Average Daily Cost,63,2025-03-19,Wednesday
+NI,Nicaragua,Luxury,Average Daily Cost,177,2025-03-19,Wednesday
+NG,Nigeria,Budget,Average Daily Cost,6.85,2025-03-19,Wednesday
+NG,Nigeria,Mid-Range,Average Daily Cost,11,2025-03-19,Wednesday
+NG,Nigeria,Luxury,Average Daily Cost,15,2025-03-19,Wednesday
+NO,Norway,Budget,Average Daily Cost,50,2025-03-19,Wednesday
+NO,Norway,Mid-Range,Average Daily Cost,119,2025-03-19,Wednesday
+NO,Norway,Luxury,Average Daily Cost,291,2025-03-19,Wednesday
+OM,Oman,Budget,Average Daily Cost,141,2025-03-19,Wednesday
+OM,Oman,Mid-Range,Average Daily Cost,302,2025-03-19,Wednesday
+OM,Oman,Luxury,Average Daily Cost,563,2025-03-19,Wednesday
+PK,Pakistan,Budget,Average Daily Cost,24,2025-03-19,Wednesday
+PK,Pakistan,Mid-Range,Average Daily Cost,61,2025-03-19,Wednesday
+PK,Pakistan,Luxury,Average Daily Cost,148,2025-03-19,Wednesday
+PA,Panama,Budget,Average Daily Cost,37,2025-03-19,Wednesday
+PA,Panama,Mid-Range,Average Daily Cost,93,2025-03-19,Wednesday
+PA,Panama,Luxury,Average Daily Cost,231,2025-03-19,Wednesday
+PG,Papua New Guinea,Budget,Average Daily Cost,90,2025-03-19,Wednesday
+PG,Papua New Guinea,Mid-Range,Average Daily Cost,229,2025-03-19,Wednesday
+PG,Papua New Guinea,Luxury,Average Daily Cost,546,2025-03-19,Wednesday
+PY,Paraguay,Budget,Average Daily Cost,45,2025-03-19,Wednesday
+PY,Paraguay,Mid-Range,Average Daily Cost,81,2025-03-19,Wednesday
+PY,Paraguay,Luxury,Average Daily Cost,147,2025-03-19,Wednesday
+PE,Peru,Budget,Average Daily Cost,26,2025-03-19,Wednesday
+PE,Peru,Mid-Range,Average Daily Cost,72,2025-03-19,Wednesday
+PE,Peru,Luxury,Average Daily Cost,214,2025-03-19,Wednesday
+PH,Philippines,Budget,Average Daily Cost,30,2025-03-19,Wednesday
+PH,Philippines,Mid-Range,Average Daily Cost,76,2025-03-19,Wednesday
+PH,Philippines,Luxury,Average Daily Cost,197,2025-03-19,Wednesday
+PL,Poland,Budget,Average Daily Cost,30,2025-03-19,Wednesday
+PL,Poland,Mid-Range,Average Daily Cost,78,2025-03-19,Wednesday
+PL,Poland,Luxury,Average Daily Cost,206,2025-03-19,Wednesday
+PT,Portugal,Budget,Average Daily Cost,73,2025-03-19,Wednesday
+PT,Portugal,Mid-Range,Average Daily Cost,177,2025-03-19,Wednesday
+PT,Portugal,Luxury,Average Daily Cost,408,2025-03-19,Wednesday
+PR,Puerto Rico,Budget,Average Daily Cost,110,2025-03-19,Wednesday
+PR,Puerto Rico,Mid-Range,Average Daily Cost,243,2025-03-19,Wednesday
+PR,Puerto Rico,Luxury,Average Daily Cost,506,2025-03-19,Wednesday
+QA,Qatar,Budget,Average Daily Cost,114,2025-03-19,Wednesday
+QA,Qatar,Mid-Range,Average Daily Cost,257,2025-03-19,Wednesday
+QA,Qatar,Luxury,Average Daily Cost,488,2025-03-19,Wednesday
+RE,RÃ©union,Budget,Average Daily Cost,42,2025-03-19,Wednesday
+RE,RÃ©union,Mid-Range,Average Daily Cost,42,2025-03-19,Wednesday
+RE,RÃ©union,Luxury,Average Daily Cost,42,2025-03-19,Wednesday
+RO,Romania,Budget,Average Daily Cost,47,2025-03-19,Wednesday
+RO,Romania,Mid-Range,Average Daily Cost,102,2025-03-19,Wednesday
+RO,Romania,Luxury,Average Daily Cost,219,2025-03-19,Wednesday
+RU,Russian Federation,Budget,Average Daily Cost,30,2025-03-19,Wednesday
+RU,Russian Federation,Mid-Range,Average Daily Cost,81,2025-03-19,Wednesday
+RU,Russian Federation,Luxury,Average Daily Cost,235,2025-03-19,Wednesday
+RW,Rwanda,Budget,Average Daily Cost,19,2025-03-19,Wednesday
+RW,Rwanda,Mid-Range,Average Daily Cost,25,2025-03-19,Wednesday
+RW,Rwanda,Luxury,Average Daily Cost,40,2025-03-19,Wednesday
+BL,Saint BarthÃ©lemy,Budget,Average Daily Cost,140,2025-03-19,Wednesday
+BL,Saint BarthÃ©lemy,Mid-Range,Average Daily Cost,342,2025-03-19,Wednesday
+BL,Saint BarthÃ©lemy,Luxury,Average Daily Cost,810,2025-03-19,Wednesday
+KN,Saint Kitts and Nevis,Budget,Average Daily Cost,140,2025-03-19,Wednesday
+KN,Saint Kitts and Nevis,Mid-Range,Average Daily Cost,342,2025-03-19,Wednesday
+KN,Saint Kitts and Nevis,Luxury,Average Daily Cost,790,2025-03-19,Wednesday
+LC,Saint Lucia,Budget,Average Daily Cost,103,2025-03-19,Wednesday
+LC,Saint Lucia,Mid-Range,Average Daily Cost,246,2025-03-19,Wednesday
+LC,Saint Lucia,Luxury,Average Daily Cost,531,2025-03-19,Wednesday
+MF,Saint Martin (French part),Budget,Average Daily Cost,172,2025-03-19,Wednesday
+MF,Saint Martin (French part),Mid-Range,Average Daily Cost,392,2025-03-19,Wednesday
+MF,Saint Martin (French part),Luxury,Average Daily Cost,749,2025-03-19,Wednesday
+VC,Saint Vincent and the Grenadines,Budget,Average Daily Cost,83,2025-03-19,Wednesday
+VC,Saint Vincent and the Grenadines,Mid-Range,Average Daily Cost,188,2025-03-19,Wednesday
+VC,Saint Vincent and the Grenadines,Luxury,Average Daily Cost,356,2025-03-19,Wednesday
+WS,Samoa,Budget,Average Daily Cost,40,2025-03-19,Wednesday
+WS,Samoa,Mid-Range,Average Daily Cost,40,2025-03-19,Wednesday
+WS,Samoa,Luxury,Average Daily Cost,40,2025-03-19,Wednesday
+ST,Sao Tome and Principe,Budget,Average Daily Cost,115,2025-03-19,Wednesday
+ST,Sao Tome and Principe,Mid-Range,Average Daily Cost,263,2025-03-19,Wednesday
+ST,Sao Tome and Principe,Luxury,Average Daily Cost,502,2025-03-19,Wednesday
+SA,Saudi Arabia,Budget,Average Daily Cost,41,2025-03-19,Wednesday
+SA,Saudi Arabia,Mid-Range,Average Daily Cost,53,2025-03-19,Wednesday
+SA,Saudi Arabia,Luxury,Average Daily Cost,72,2025-03-19,Wednesday
+SN,Senegal,Budget,Average Daily Cost,68,2025-03-19,Wednesday
+SN,Senegal,Mid-Range,Average Daily Cost,168,2025-03-19,Wednesday
+SN,Senegal,Luxury,Average Daily Cost,398,2025-03-19,Wednesday
+RS,Serbia,Budget,Average Daily Cost,19,2025-03-19,Wednesday
+RS,Serbia,Mid-Range,Average Daily Cost,46,2025-03-19,Wednesday
+RS,Serbia,Luxury,Average Daily Cost,114,2025-03-19,Wednesday
+SC,Seychelles,Budget,Average Daily Cost,95,2025-03-19,Wednesday
+SC,Seychelles,Mid-Range,Average Daily Cost,217,2025-03-19,Wednesday
+SC,Seychelles,Luxury,Average Daily Cost,412,2025-03-19,Wednesday
+SG,Singapore,Budget,Average Daily Cost,67,2025-03-19,Wednesday
+SG,Singapore,Mid-Range,Average Daily Cost,175,2025-03-19,Wednesday
+SG,Singapore,Luxury,Average Daily Cost,478,2025-03-19,Wednesday
+SX,Sint Maarten (Dutch part),Budget,Average Daily Cost,361,2025-03-19,Wednesday
+SX,Sint Maarten (Dutch part),Mid-Range,Average Daily Cost,391,2025-03-19,Wednesday
+SX,Sint Maarten (Dutch part),Luxury,Average Daily Cost,447,2025-03-19,Wednesday
+SK,Slovakia,Budget,Average Daily Cost,70,2025-03-19,Wednesday
+SK,Slovakia,Mid-Range,Average Daily Cost,164,2025-03-19,Wednesday
+SK,Slovakia,Luxury,Average Daily Cost,362,2025-03-19,Wednesday
+SI,Slovenia,Budget,Average Daily Cost,50,2025-03-19,Wednesday
+SI,Slovenia,Mid-Range,Average Daily Cost,117,2025-03-19,Wednesday
+SI,Slovenia,Luxury,Average Daily Cost,248,2025-03-19,Wednesday
+SB,Solomon Islands,Budget,Average Daily Cost,82,2025-03-19,Wednesday
+SB,Solomon Islands,Mid-Range,Average Daily Cost,186,2025-03-19,Wednesday
+SB,Solomon Islands,Luxury,Average Daily Cost,355,2025-03-19,Wednesday
+ZA,South Africa,Budget,Average Daily Cost,42,2025-03-19,Wednesday
+ZA,South Africa,Mid-Range,Average Daily Cost,105,2025-03-19,Wednesday
+ZA,South Africa,Luxury,Average Daily Cost,272,2025-03-19,Wednesday
+ES,Spain,Budget,Average Daily Cost,79,2025-03-19,Wednesday
+ES,Spain,Mid-Range,Average Daily Cost,201,2025-03-19,Wednesday
+ES,Spain,Luxury,Average Daily Cost,522,2025-03-19,Wednesday
+LK,Sri Lanka,Budget,Average Daily Cost,23,2025-03-19,Wednesday
+LK,Sri Lanka,Mid-Range,Average Daily Cost,62,2025-03-19,Wednesday
+LK,Sri Lanka,Luxury,Average Daily Cost,186,2025-03-19,Wednesday
+SD,Sudan,Budget,Average Daily Cost,1.08,2025-03-19,Wednesday
+SD,Sudan,Mid-Range,Average Daily Cost,1.08,2025-03-19,Wednesday
+SD,Sudan,Luxury,Average Daily Cost,1.08,2025-03-19,Wednesday
+SJ,Svalbard and Jan Mayen,Budget,Average Daily Cost,279,2025-03-19,Wednesday
+SJ,Svalbard and Jan Mayen,Mid-Range,Average Daily Cost,558,2025-03-19,Wednesday
+SJ,Svalbard and Jan Mayen,Luxury,Average Daily Cost,"1,214",2025-03-19,Wednesday
+SZ,Eswatini,Budget,Average Daily Cost,66,2025-03-19,Wednesday
+SZ,Eswatini,Mid-Range,Average Daily Cost,151,2025-03-19,Wednesday
+SZ,Eswatini,Luxury,Average Daily Cost,289,2025-03-19,Wednesday
+SE,Sweden,Budget,Average Daily Cost,70,2025-03-19,Wednesday
+SE,Sweden,Mid-Range,Average Daily Cost,170,2025-03-19,Wednesday
+SE,Sweden,Luxury,Average Daily Cost,396,2025-03-19,Wednesday
+CH,Switzerland,Budget,Average Daily Cost,139,2025-03-19,Wednesday
+CH,Switzerland,Mid-Range,Average Daily Cost,335,2025-03-19,Wednesday
+CH,Switzerland,Luxury,Average Daily Cost,787,2025-03-19,Wednesday
+SY,Syrian Arab Republic,Budget,Average Daily Cost,0.05,2025-03-19,Wednesday
+SY,Syrian Arab Republic,Mid-Range,Average Daily Cost,0.11,2025-03-19,Wednesday
+SY,Syrian Arab Republic,Luxury,Average Daily Cost,0.18,2025-03-19,Wednesday
+TW,"Taiwan, Province of China",Budget,Average Daily Cost,44,2025-03-19,Wednesday
+TW,"Taiwan, Province of China",Mid-Range,Average Daily Cost,121,2025-03-19,Wednesday
+TW,"Taiwan, Province of China",Luxury,Average Daily Cost,355,2025-03-19,Wednesday
+TJ,Tajikistan,Budget,Average Daily Cost,13,2025-03-19,Wednesday
+TJ,Tajikistan,Mid-Range,Average Daily Cost,19,2025-03-19,Wednesday
+TJ,Tajikistan,Luxury,Average Daily Cost,33,2025-03-19,Wednesday
+TZ,"Tanzania, United Republic of",Budget,Average Daily Cost,42,2025-03-19,Wednesday
+TZ,"Tanzania, United Republic of",Mid-Range,Average Daily Cost,109,2025-03-19,Wednesday
+TZ,"Tanzania, United Republic of",Luxury,Average Daily Cost,298,2025-03-19,Wednesday
+TH,Thailand,Budget,Average Daily Cost,36,2025-03-19,Wednesday
+TH,Thailand,Mid-Range,Average Daily Cost,99,2025-03-19,Wednesday
+TH,Thailand,Luxury,Average Daily Cost,299,2025-03-19,Wednesday
+TT,Trinidad and Tobago,Budget,Average Daily Cost,108,2025-03-19,Wednesday
+TT,Trinidad and Tobago,Mid-Range,Average Daily Cost,248,2025-03-19,Wednesday
+TT,Trinidad and Tobago,Luxury,Average Daily Cost,479,2025-03-19,Wednesday
+TN,Tunisia,Budget,Average Daily Cost,25,2025-03-19,Wednesday
+TN,Tunisia,Mid-Range,Average Daily Cost,25,2025-03-19,Wednesday
+TN,Tunisia,Luxury,Average Daily Cost,25,2025-03-19,Wednesday
+TR,Turkey,Budget,Average Daily Cost,54,2025-03-19,Wednesday
+TR,Turkey,Mid-Range,Average Daily Cost,136,2025-03-19,Wednesday
+TR,Turkey,Luxury,Average Daily Cost,377,2025-03-19,Wednesday
+TC,Turks and Caicos Islands,Budget,Average Daily Cost,164,2025-03-19,Wednesday
+TC,Turks and Caicos Islands,Mid-Range,Average Daily Cost,379,2025-03-19,Wednesday
+TC,Turks and Caicos Islands,Luxury,Average Daily Cost,755,2025-03-19,Wednesday
+UG,Uganda,Budget,Average Daily Cost,52,2025-03-19,Wednesday
+UG,Uganda,Mid-Range,Average Daily Cost,124,2025-03-19,Wednesday
+UG,Uganda,Luxury,Average Daily Cost,267,2025-03-19,Wednesday
+UA,Ukraine,Budget,Average Daily Cost,11,2025-03-19,Wednesday
+UA,Ukraine,Mid-Range,Average Daily Cost,27,2025-03-19,Wednesday
+UA,Ukraine,Luxury,Average Daily Cost,67,2025-03-19,Wednesday
+AE,United Arab Emirates,Budget,Average Daily Cost,114,2025-03-19,Wednesday
+AE,United Arab Emirates,Mid-Range,Average Daily Cost,286,2025-03-19,Wednesday
+AE,United Arab Emirates,Luxury,Average Daily Cost,750,2025-03-19,Wednesday
+GB,United Kingdom,Budget,Average Daily Cost,91,2025-03-19,Wednesday
+GB,United Kingdom,Mid-Range,Average Daily Cost,230,2025-03-19,Wednesday
+GB,United Kingdom,Luxury,Average Daily Cost,595,2025-03-19,Wednesday
+US,United States,Budget,Average Daily Cost,121,2025-03-19,Wednesday
+US,United States,Mid-Range,Average Daily Cost,324,2025-03-19,Wednesday
+US,United States,Luxury,Average Daily Cost,923,2025-03-19,Wednesday
+UY,Uruguay,Budget,Average Daily Cost,37,2025-03-19,Wednesday
+UY,Uruguay,Mid-Range,Average Daily Cost,87,2025-03-19,Wednesday
+UY,Uruguay,Luxury,Average Daily Cost,183,2025-03-19,Wednesday
+UZ,Uzbekistan,Budget,Average Daily Cost,3.52,2025-03-19,Wednesday
+UZ,Uzbekistan,Mid-Range,Average Daily Cost,7.91,2025-03-19,Wednesday
+UZ,Uzbekistan,Luxury,Average Daily Cost,14,2025-03-19,Wednesday
+VU,Vanuatu,Budget,Average Daily Cost,196,2025-03-19,Wednesday
+VU,Vanuatu,Mid-Range,Average Daily Cost,454,2025-03-19,Wednesday
+VU,Vanuatu,Luxury,Average Daily Cost,903,2025-03-19,Wednesday
+VE,"Venezuela, Bolivarian Republic of",Budget,Average Daily Cost,0.00,2025-03-19,Wednesday
+VE,"Venezuela, Bolivarian Republic of",Mid-Range,Average Daily Cost,0.00,2025-03-19,Wednesday
+VE,"Venezuela, Bolivarian Republic of",Luxury,Average Daily Cost,0.00,2025-03-19,Wednesday
+VN,Viet Nam,Budget,Average Daily Cost,25,2025-03-19,Wednesday
+VN,Viet Nam,Mid-Range,Average Daily Cost,67,2025-03-19,Wednesday
+VN,Viet Nam,Luxury,Average Daily Cost,191,2025-03-19,Wednesday
+VG,"Virgin Islands, British",Budget,Average Daily Cost,162,2025-03-19,Wednesday
+VG,"Virgin Islands, British",Mid-Range,Average Daily Cost,377,2025-03-19,Wednesday
+VG,"Virgin Islands, British",Luxury,Average Daily Cost,767,2025-03-19,Wednesday
+VI,"Virgin Islands, U.S.",Budget,Average Daily Cost,119,2025-03-19,Wednesday
+VI,"Virgin Islands, U.S.",Mid-Range,Average Daily Cost,282,2025-03-19,Wednesday
+VI,"Virgin Islands, U.S.",Luxury,Average Daily Cost,602,2025-03-19,Wednesday
+ZM,Zambia,Budget,Average Daily Cost,356,2025-03-19,Wednesday
+ZM,Zambia,Mid-Range,Average Daily Cost,955,2025-03-19,Wednesday
+ZM,Zambia,Luxury,Average Daily Cost,"2,732",2025-03-19,Wednesday
+ZW,Zimbabwe,Budget,Average Daily Cost,0.00,2025-03-19,Wednesday
+ZW,Zimbabwe,Mid-Range,Average Daily Cost,0.00,2025-03-19,Wednesday
+ZW,Zimbabwe,Luxury,Average Daily Cost,0.00,2025-03-19,Wednesday
