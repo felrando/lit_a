@@ -96,12 +96,11 @@ def main():
     all_data = []
     
     for country, code in country_codes.items():
-        for budget_type, budget_name in BUDGET_TYPES.items():
-            print(f"Scraping {country} - {budget_name}...")
-            data = scrape_budget_data(country, code)
-            if data:
-                all_data.extend(data)
-            time.sleep(random.uniform(1, 3))  # Randomized delay to avoid detection
+        print(f"Scraping {country}...")
+        data = scrape_budget_data(country, code)  # This function already loops through budget types
+        if data:
+            all_data.extend(data)
+        time.sleep(random.uniform(1, 3))
     
     if all_data:
         df = pd.DataFrame(all_data)
