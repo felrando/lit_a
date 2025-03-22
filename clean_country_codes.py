@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 # Load the CSV file
 file_path = "budget_data.csv"  # Update with your file path
@@ -21,6 +22,17 @@ pivot_df[cost_columns] = pivot_df[cost_columns].apply(pd.to_numeric, errors='coe
 
 # Remove rows where all cost values are either NaN or 0
 pivot_df = pivot_df[(pivot_df[cost_columns].notna().any(axis=1)) & (pivot_df[cost_columns].sum(axis=1) > 0)]
+
+# Remove rows where all cost values are the same OR all values are less than 10
+pivot_df = pivot_df[~(pivot_df[cost_columns].nunique(axis=1) == 1) & (pivot_df[cost_columns].min(axis=1) >= 10)]
+
+# If 'Luxury' is NaN, replace it with 2.75 * 'Mid-Range', rounded down to the nearest integer
+pivot_df['Luxury'] = pivot_df.apply(
+    lambda row: np.floor(2.75 * row['Mid-Range']) if pd.isna(row['Luxury']) else row['Luxury'],
+    axis=1
+)
+
+
 # Reorder columns to swap 'Mid-Range' and 'Luxury'
 pivot_df = pivot_df[['Country Code', 'Country Name', 'Date', 'Budget', 'Mid-Range', 'Luxury']]
 
